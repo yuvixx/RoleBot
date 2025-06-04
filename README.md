@@ -13,6 +13,6 @@ A simple command-line chatbot that roleplays as any historical or fictional char
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gemini-character-chatbot.git
-cd gemini-character-chatbot
+git clone https://github.com/yuvixx/RoleBot.git
+cd RoleBot
 # RoleBot
